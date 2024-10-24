@@ -6,3 +6,6 @@ test/.test_cov.dart
 coverage/
 .idea/
 build/
+*.g.dart
+*.freezed.dart
+.fvm
